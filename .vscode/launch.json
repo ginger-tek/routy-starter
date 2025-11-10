@@ -13,7 +13,9 @@
         "-S",
         "localhost:8000",
         "-t",
-        "."
+        "public",
+        "-f",
+        "index.php"
       ],
       "cwd": "${workspaceRoot}/.",
       "serverReadyAction": {
