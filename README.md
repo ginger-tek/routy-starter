@@ -1,4 +1,4 @@
-# Routy start project
+# Routy starter project
 
 ## Run local dev
 Use `.vscode/launch.json` profile for debugging in VS Code, or run without debugging:
